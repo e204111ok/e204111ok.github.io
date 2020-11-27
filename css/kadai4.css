@@ -1,0 +1,30 @@
+body{
+    background-image: url(../images/04.jpg);
+}
+
+h1{
+    text-align: center;
+    
+}
+h1.a{
+    color: white;
+    background-color: antiquewhite
+}
+h1.f{
+    color: darkgoldenrod;
+    background-color: darkgreen;
+}
+h2{
+    text-align: center;
+    
+}
+h2.d{
+    color: chartreuse;
+    background-color:crimson;
+}
+
+h2.b{
+    color: blueviolet;
+    background-color: aqua;
+}
+
