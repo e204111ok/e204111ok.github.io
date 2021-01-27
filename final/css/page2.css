@@ -1,0 +1,78 @@
+div.wrap{
+    width: 1300px;
+    margin: 0px auto;
+}
+
+body{
+    background-image: url(../images/haikei.jpg);
+    background-size: cover;
+}
+
+div.title{
+    width: 1300px;
+    height: 80px;
+    background-color: aquamarine;
+    margin-bottom: 20px;
+    font-size: 50px;
+    text-align: center;
+}
+
+div.menu{
+    width: 1300px;
+    height: 900px;
+    background-color: blue;
+    font-size: 0;
+    
+}
+
+div.futter{
+    width: 1300px;
+    height: 40px;
+    background-color: orange;
+    margin-top: 20px;
+    text-align: left;
+}
+
+div.menus{
+    width: 50%;
+    height: 100%;
+    display: inline-block;
+    vertical-align: top;
+    background-color: beige;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+
+div.menus2{
+    width: 50%;
+    height: 100%;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 20px;
+    background-color: magenta;
+    text-align: center;
+}
+
+div.menus3{
+    width: 1300px;
+    height: 150px;
+    vertical-align: top;
+    font-size: 0px;
+    background-color: darkcyan;
+    margin-top: 20px;
+    text-align: center;
+}
+
+div.tab{
+    width: 162.5px;
+    height: 150px;
+    font-size: 3px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+p#baio{
+    font-family: fantasy;
+}

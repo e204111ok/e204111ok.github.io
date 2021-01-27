@@ -1,0 +1,82 @@
+body{
+    background-image: url(../images/haikei.jpg);
+    background-size: cover;
+}
+
+div.title{
+    width: 100%;
+    height: 80px;
+    background-color: aquamarine;
+    margin-bottom: 20px;
+    font-size: 50px;
+    text-align: center;
+}
+
+div.menu{
+    width: 100%;
+    height: 900px;
+    font-size: 0;
+    
+}
+
+div.futter{
+    width: 100%;
+    height: 40px;
+    background-color: orange;
+    margin-top: 20px;
+    text-align: left;
+}
+
+div.menus{
+    width: 33%;
+    height: 100%;
+    display: inline-block;
+    vertical-align: top;
+    
+    margin: 0% 0.15% 0% 0.15%;
+}
+
+div.menu1{
+    width: 100%;
+    height: 33%;
+    text-align: center;
+    font-size: 17px;
+    background-color: cyan;
+    margin: 0.15% 0% 0.15% 0%;
+}
+
+div.menus2{
+    width: 33%;
+    height: 100%;
+    display: inline-block;
+    vertical-align: top;
+    
+    margin: 0% 0.15% 0% 0.15%;
+}
+
+div.menu2{
+    width: 100%;
+    height: 33%;
+    font-size: 17px;
+    text-align: center;
+    background-color: lime;
+    margin: 0.15% 0% 0.15% 0%;
+}
+
+div.menus3{
+    width: 33%;
+    height: 100%;
+    display: inline-block;
+    vertical-align: top;
+    
+    margin: 0% 0.15% 0% 0.15%;
+}
+
+div.menu3{
+    width: 100%;
+    height: 33%;
+    font-size: 17px;
+    text-align: center;
+    background-color: teal;
+    margin: 0.15% 0% 0.15% 0%;
+}
